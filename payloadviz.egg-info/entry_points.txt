@@ -1,0 +1,2 @@
+[console_scripts]
+payloadviz = cli.main:main
